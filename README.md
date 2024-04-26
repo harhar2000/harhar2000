@@ -2,7 +2,11 @@
 
 🔧**'Software Developer / Jobs Market Analyst'**👨‍💼
 
-### I am a software developer with a focus on Python and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make a significant impact via following my interests and challenging my skills. 
+### Software developer with a focus on Python and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make a significant impact via following my interests and challenging my skills. 
+
+### Some of my favourite recent projects i've worked on are:
+#### Car-CO2-Emissions-Calculator - A script accessing Climatiq's API to calculate CO2 emissions for three different sized vehicles over a distance of 16 miles: https://github.com/harhar2000/Car-CO2-Emissions-Calculator
+#### enter-the-matrix - A text based terminal game based within the world of 'The Matrix'. Have fun learning to code, no experience necessary!: https://github.com/harhar2000/enter-the-matrix
 
 ---
 
