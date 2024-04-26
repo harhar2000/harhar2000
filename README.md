@@ -1,8 +1,8 @@
-# harhar2000 🚀
+# harhar2000 🚀💡
 
-**'Software Developer / Jobs Market Analyst'**
+🔧**'Software Developer / Jobs Market Analyst'**👨‍💼
 
-I am a software developer with a focus on Python and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make a significant impact via following my interests and challenging my skills.
+## I am a software developer with a focus on Python and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make a significant impact via following my interests and challenging my skills. 
 
 ---
 
@@ -22,7 +22,7 @@ I am a software developer with a focus on Python and Machine Learning technologi
 <details>
    <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 
-Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. My enthusiasm for coding led me to being accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering. I've enhanced my skills through several internships, further devloping my abilities in Python and Machine Learning. I am currently developing a text-based terminal game aimed at teaching Python basics to beginners. I'm always eager to tackle more complex problems and evolve my craft.
+Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. My enthusiasm led me to being accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering. I've enhanced my skills through several internships, further devloping my abilities in Python and Machine Learning. I am currently developing a text-based terminal game aimed at teaching Python basics to beginners. I'm always eager to tackle more complex problems and evolve my craft.
 
 </details>
 
