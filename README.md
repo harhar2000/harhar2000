@@ -1,6 +1,6 @@
 # harhar2000 🚀💡
 
-🔧**'Software Developer / Jobs Market Analyst'**👨‍💼
+🔧**'Software Developer / Applied AI Fullstack Engineer / Prompt Engineer'**👨‍💼
 
 ### Software developer with a focus on Python and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make significant impacts.
 
