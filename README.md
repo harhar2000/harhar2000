@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ### Frameworks and Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=pygame&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=spacy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=pygame&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)![spaCy](https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=spacy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases and Cloud Hosting
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -22,12 +22,17 @@
 
 
 <details>
-   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   <summary>👨‍💻 About me</summary>
 
-Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. My enthusiasm led me to being accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering. I've enhanced my skills through several internships, further devloping my abilities in Python and Machine Learning. I am currently developing a text-based terminal game aimed at teaching Python basics to beginners. I'm always eager to tackle more complex problems and evolve my craft.
+Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. I was accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering.
+
+I've since had the opportunity to enhance my skills through various internships:
+- **[Marllm.io](https://www.marllm.io/):** Interned as a Web Developer, where I built and deployed web applications.
+- **MyWings:** Worked as a Prompt Engineer, developing and training Machine Learning models for the backend of a platform aimed at improving workspace adjustments.
+
+I'm deeply interested in AI, prompting and web scraping technologies. Currently, I am developing a Betting Market Data Scraper using Selenium and a text-based terminal game designed to teach Python basics to beginners.
 
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harhar2000&theme=dark)](https://git.io/streak-stats)
 
-Feel free to reach out to discuss technology, collaboration, or potential opportunities. Let’s create something impactful together!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harhar2000&theme=dark)](https://git.io/streak-stats)
