@@ -2,12 +2,12 @@
 
 🔧**'Software Developer / Applied AI Fullstack Engineer / Prompt Engineer'**👨‍💼
 
-### Software developer with a focus on Python and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make significant impacts.
+### Software developer with a focus on Python, Java, Scraping and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make significant impacts.
 
 ---
 
 ### Programming and Markup Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ### Frameworks and Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=pygame&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)![spaCy](https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=spacy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
