@@ -30,7 +30,7 @@ I've since had the opportunity to enhance my skills through various internships:
 - **[Marllm.io](https://www.marllm.io/):** Interned as a Web Developer, where I built and deployed web applications.
 - **MyWings:** Worked as a Prompt Engineer, developing and training Machine Learning models for the backend of a platform aimed at improving workspace adjustments.
 
-I'm deeply interested in AI, prompting and web scraping technologies. Currently, I am developing a Betting Market Data Scraper using Selenium and a text-based terminal game designed to teach Python basics to beginners.
+I'm interested in AI, Automation and prompting. 
 
 </details>
 
