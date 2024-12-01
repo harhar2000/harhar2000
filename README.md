@@ -1,8 +1,8 @@
 # harhar2000 🚀💡
 
-🔧**'Software Developer / Applied AI Fullstack Engineer / Prompt Engineer'**👨‍💼
+🔧**'Software Developer / Solution Engineer / Prompt Engineer'**👨‍💼
 
-### Software developer with a focus on Python, Java, Scraping and Machine Learning technologies. Each of my projects are crafted from the ground up. This encompasses planning, designing and executing with precision. My approach consistently revolves around solving real-life problems through innovative coding solutions. Currently, I am actively seeking new opportunities that make significant impacts.
+### I am a Solutions Engineer at an events tech company with a passion for building impactful applications and exploring innovative technologies. My experience spans machine learning, full-stack development, and creative problem-solving in diverse projects. Previously, I worked with machine learning startups, enhancing my expertise in AI-powered solutions. On my GitHub, you'll find a mix of professional, hackathon and personal projects, showcasing my skills in web development, data analysis, machine learning and game design. From deploying full-stack applications like Quizard to creating AI-driven tools such as my AI Web Scraper, I aim to combine creativity and technical precision in every project.
 
 ---
 
