@@ -6,6 +6,7 @@
 
 ### Previously, I worked with machine learning startups, enhancing my expertise in AI-powered solutions. On my GitHub, you'll find a mix of professional, hackathon and personal projects, showcasing my skills in web development, data analysis, machine learning and game design. From deploying full-stack applications like Quizard to creating AI-driven tools such as my AI Web Scraper, I aim to combine creativity and technical precision in every project.
 
+Medium Contributions: https://medium.com/@hmsh2000
 ---
 
 ### Programming and Markup Languages
