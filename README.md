@@ -32,6 +32,3 @@ I've since had the opportunity to enhance my skills through various internships:
 I'm interested in AI, Automation and prompting. 
 
 </details>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harhar2000&theme=dark)](https://git.io/streak-stats)
