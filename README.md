@@ -25,7 +25,8 @@
 
 Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. I was accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering.
 
-I've since had the opportunity to enhance my skills through various internships:
+I've since had the opportunity to enhance my skills through various contracts and internships:
+- **[Conference Badges](https://conferencebadges.co.uk/):** Providing technical support, data management and real-time analytics for global events, managing registration systems, event hardware and contactless technologies for major brands across various sectors.
 - **[Marllm.io](https://www.marllm.io/):** Interned as a Web Developer, where I built and deployed web applications.
 - **MyWings:** Worked as a Prompt Engineer, developing and training Machine Learning models for the backend of a platform aimed at improving workspace adjustments.
 
