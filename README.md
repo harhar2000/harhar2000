@@ -2,6 +2,19 @@
 
 🔧**'Software Developer / Solution Engineer / Prompt Engineer'**👨‍💼
 
+<details>
+   <summary>👨‍💻 About me</summary>
+
+Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. I was accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering.
+
+I've since had the opportunity to enhance my skills through various contracts and internships:
+- **[Conference Badges](https://conferencebadges.co.uk/):** Providing technical support, data management and real-time analytics for global events, managing registration systems, event hardware and contactless technologies for major brands across various sectors.
+- **[Marllm.io](https://www.marllm.io/):** Interned as a Web Developer, where I built and deployed web applications.
+- **MyWings:** Worked as a Prompt Engineer, developing and training Machine Learning models for the backend of a platform aimed at improving workspace adjustments.
+
+</details>
+
+
 ## Medium Contributions: https://medium.com/@hmsh2000
 ---
 
@@ -16,18 +29,3 @@
 
 ### Software and Tools
 ![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=operatingsystem&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-000000?style=for-the-badge&logo=replit&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=for-the-badge&logo=github&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-333?style=for-the-badge&logo=obsidian&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-
-
-
-
-<details>
-   <summary>👨‍💻 About me</summary>
-
-Transitioning from a diverse background in Corporate Events, TV Production and Charity Management, I discovered my passion for programming through self-teaching Python. I was accepted into [Makers](https://makers.tech/), where I completed a rigorous 16-week training covering everything from Python, Engineering Foundations, Databases, Web Applications, Cloud Deployment and Cloud Engineering.
-
-I've since had the opportunity to enhance my skills through various contracts and internships:
-- **[Conference Badges](https://conferencebadges.co.uk/):** Providing technical support, data management and real-time analytics for global events, managing registration systems, event hardware and contactless technologies for major brands across various sectors.
-- **[Marllm.io](https://www.marllm.io/):** Interned as a Web Developer, where I built and deployed web applications.
-- **MyWings:** Worked as a Prompt Engineer, developing and training Machine Learning models for the backend of a platform aimed at improving workspace adjustments.
-
-</details>
