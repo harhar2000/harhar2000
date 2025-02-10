@@ -30,6 +30,4 @@ I've since had the opportunity to enhance my skills through various contracts an
 - **[Marllm.io](https://www.marllm.io/):** Interned as a Web Developer, where I built and deployed web applications.
 - **MyWings:** Worked as a Prompt Engineer, developing and training Machine Learning models for the backend of a platform aimed at improving workspace adjustments.
 
-I'm interested in AI, Automation and prompting. 
-
 </details>
